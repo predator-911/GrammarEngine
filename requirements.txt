@@ -2,6 +2,7 @@
 streamlit==1.31.0
 librosa==0.10.1
 numpy==1.26.3
+setuptools  # 👈 This fixes the pkg_resources error
 
 # Audio processing
 soundfile==0.12.1
