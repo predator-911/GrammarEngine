@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit==1.31.0
+librosa==0.10.1
+numpy==1.26.3
+
+# Audio processing
+soundfile==0.12.1
+pydub==0.25.1
+
+# NLP (for future implementation)
+# spacy==3.7.2
+# language-tool-python==2.7.1
+
+# Speech-to-text (for future implementation)
+# openai-whisper==20231117
+
+# Visualization
+matplotlib==3.8.2
+pandas==2.1.4
